@@ -1,4 +1,8 @@
 This project implements the Parzen-Rosenblatt Kernel Density Estimator (KDE) and systematically tests for the optimal choice of the bandwidth parameter h. The implementation evaluates the performance of the KDE using simulated data and calculates bias, variance, and Mean Squared Error (MSE) for different bandwidth values.
+
+
+![alt text](https://github.com/Jacob-J-Richards/Parzen-Rosenblatt-KDE-with-optimal-bandwidth-analysis-/blob/main/prelim.JPG)
+
 Key Features:
 
 Data Generation:
@@ -33,3 +37,6 @@ Additionally, the bias and variance are plotted as functions of h, demonstrating
 Conclusion:
 
 This implementation explores the trade-offs involved in bandwidth selection for the Parzen-Rosenblatt KDE. It performs simulations to compute the mean, variance, and bias of the KDE across multiple trials and demonstrates that the optimal bandwidth is h = 7, based on minimizing the MSE.
+
+![alt text](https://github.com/Jacob-J-Richards/Parzen-Rosenblatt-KDE-with-optimal-bandwidth-analysis-/blob/main/verified.JPG)
+
