@@ -1,5 +1,6 @@
   The program impliments the Parzen Rosenblatt Kernel smoother on an Multimodal distribution. 
   Aswell, performs bias variance ananlysis in the following steps:
+  
     1.) generate 150 samples from the population distribution 
     
     2.) evaluates the KDE on each sample at a given h bandwidth 
