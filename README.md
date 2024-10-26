@@ -1,5 +1,5 @@
   The program impliments the Parzen Rosenblatt Kernel smoother on an Multimodal distribution. 
-  Aswell, performs bias variance ananlysis in the following steps:
+  Aswell, performs bias variance ananlysis in the following steps: 
   
     1.) generate 150 samples from the population distribution 
     
@@ -11,7 +11,8 @@
     
     5.) evaluates the MSE and prints MSE (sum of totall bias and variance) to suppliment visual plot 
 
-  Example usage:
+
+  Example usages:
   the KDE evaluated on 1 sample at a vareity of h values plotted with the true distribution
 ![alt text](https://github.com/Jacob-J-Richards/R_Parzen-Rosenblatt-KDE-with-optimal-bandwidth-analysis-/blob/main/better.png)
 
