@@ -9,11 +9,8 @@
     
     4.) plots the totall bias and variance of the KDE as a function of step size 
     
-    5.) evaluates the MSE and confirmes the visual results of the visual plot that 
-    h = 0.6 is the opitmal choice. 
+    5.) evaluates the MSE and to in addition to previously meantioned visual plot
 
-  The conlusion drawn from this implimentation is that a step size of h = 0.6 is optimal 
-  for the given distribution being aproximated
 
   the KDE evaluated a variaity of h values plotted against the true distribution 
 ![alt text](https://github.com/Jacob-J-Richards/R_Parzen-Rosenblatt-KDE-with-optimal-bandwidth-analysis-/blob/main/better.png)
