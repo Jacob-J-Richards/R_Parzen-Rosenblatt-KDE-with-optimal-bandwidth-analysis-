@@ -24,5 +24,5 @@
 
 
   You can see how good the apoximation gets when you plot the mean of 150 evaluations at each x-coordianate 
-![alt text](https://github.com/Jacob-J-Richards/R_Parzen-Rosenblatt-KDE-with-optimal-bandwidth-analysis-/blob/main/better4.png)
+![alt text](https://github.com/Jacob-J-Richards/R_Parzen-Rosenblatt-KDE-with-optimal-bandwidth-analysis-/blob/main/better5.png)
 
