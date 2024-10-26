@@ -5,21 +5,21 @@
     
     2.) evaluates the KDE on each sample at a given h bandwidth 
     
-    3.) finds the bias and variance on the aggreagate of the trials for each bandwidth 
+    3.) finds the bias and variance of the trials for each bandwidth 
     
     4.) plots the totall bias and variance of the KDE as a function of step size 
     
-    5.) evaluates the MSE and to in addition to previously meantioned visual plot
+    5.) evaluates the MSE and prints MSE (sum of totall bias and variance) to suppliment visual plot 
 
-
-  the KDE evaluated a variaity of h values plotted against the true distribution 
+  Example usage:
+  the KDE evaluated on 1 sample at a vareity of h values plotted with the true distribution
 ![alt text](https://github.com/Jacob-J-Richards/R_Parzen-Rosenblatt-KDE-with-optimal-bandwidth-analysis-/blob/main/better.png)
 
-  totall bias and variance of the KDE as a function of step size 
+  totall bias and variance of the KDE as a function of step size performed on 150 samples from distribution 
 ![alt text](https://github.com/Jacob-J-Richards/R_Parzen-Rosenblatt-KDE-with-optimal-bandwidth-analysis-/blob/main/better2.png)
 ![alt text](https://github.com/Jacob-J-Richards/R_Parzen-Rosenblatt-KDE-with-optimal-bandwidth-analysis-/blob/main/better3.png)
 
 
-  You can see how good the apoximation gets when you plot the mean of 150 evaluations at each x-coordianate 
+  Plot of the mean of each output at each alpha of the 150 samples and evaluations  
 ![alt text](https://github.com/Jacob-J-Richards/R_Parzen-Rosenblatt-KDE-with-optimal-bandwidth-analysis-/blob/main/better5.png)
 
