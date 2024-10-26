@@ -17,8 +17,7 @@
 ![alt text](https://github.com/Jacob-J-Richards/R_Parzen-Rosenblatt-KDE-with-optimal-bandwidth-analysis-/blob/main/better.png)
 
   totall bias and variance of the KDE as a function of step size performed on 150 samples from distribution 
-![alt text](https://github.com/Jacob-J-Richards/R_Parzen-Rosenblatt-KDE-with-optimal-bandwidth-analysis-/blob/main/better2.png)
-![alt text](https://github.com/Jacob-J-Richards/R_Parzen-Rosenblatt-KDE-with-optimal-bandwidth-analysis-/blob/main/better3.png)
+![alt text](https://github.com/Jacob-J-Richards/R_Parzen-Rosenblatt-KDE-with-optimal-bandwidth-analysis-/blob/main/better4.png)
 
 
   Plot of the mean of each output at each alpha of the 150 samples and evaluations  
